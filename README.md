@@ -20,3 +20,4 @@
 7、[斐波那契数列](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md) ⭐️<br>
 8、[跳台阶](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E8%B7%B3%E5%8F%B0%E9%98%B6.md)  ⭐️<br>
 9、[变态跳台阶](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md)  ⭐️<br>
+9、[二进制中1的个数](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)  ⭐️<br>
