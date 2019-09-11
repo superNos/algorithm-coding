@@ -20,4 +20,6 @@
 7、[斐波那契数列](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md) ⭐️<br>
 8、[跳台阶](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E8%B7%B3%E5%8F%B0%E9%98%B6.md)  ⭐️<br>
 9、[变态跳台阶](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md)  ⭐️<br>
-9、[二进制中1的个数](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)  ⭐️<br>
+10、[二进制中1的个数](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)  ⭐️<br>
+11、[数值的整数次方](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md)  ⭐️<br>
+12、[调整数组顺序使奇数位于偶数前面](https://github.com/superNos/arithmetic-coding/blob/master/%E5%89%91%E6%8C%87offer/%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md)  ⭐️<br>
