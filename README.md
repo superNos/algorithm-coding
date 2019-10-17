@@ -35,3 +35,4 @@
 22、[复杂链表的复制](https://github.com/superNos/algorithm-coding/blob/master/%E5%89%91%E6%8C%87offer/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md)  ⭐️<br>
 23、[二叉搜索树与双向链表](https://github.com/superNos/algorithm-coding/blob/master/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)  ⭐️<br>
 24、[字符串的排列](https://github.com/superNos/algorithm-coding/blob/master/%E5%89%91%E6%8C%87offer/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)  ⭐️<br>
+25、[数组中出现次数超过一半的数字](https://github.com/superNos/algorithm-coding/blob/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)  ⭐️<br>
